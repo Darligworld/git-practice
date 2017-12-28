@@ -1,0 +1,5 @@
+git init: this is used to creat new git repository
+git commit -m "comment", it is used to permanently store files in repository
+cd {file_name}; it is used to navigate into files, folders and directories in the working directory
+git add {file-name}; this is used to add files from the working directories to the staging area
+git log; thi is used to display the list of all the previous commits
